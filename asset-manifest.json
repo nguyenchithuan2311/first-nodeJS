@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-nodeJS/static/css/main.5b3d58c1.css",
+    "main.js": "/first-nodeJS/static/js/main.7c931548.js",
+    "index.html": "/first-nodeJS/index.html",
+    "main.5b3d58c1.css.map": "/first-nodeJS/static/css/main.5b3d58c1.css.map",
+    "main.7c931548.js.map": "/first-nodeJS/static/js/main.7c931548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3d58c1.css",
+    "static/js/main.7c931548.js"
+  ]
+}
